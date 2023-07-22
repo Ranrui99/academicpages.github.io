@@ -12,5 +12,5 @@ I'm a third year graduate student from [School of Public Health](http://portal.s
 
 You can find my CV here: [Ranrui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:13544492060@126.com) / [Github](https://github.com/Ranrui99) / [Wechat](../image/wechat.jpg)
+[Email](mailto:13544492060@126.com) / [Github](https://github.com/Ranrui99) / [Wechat](../images/wechat.jpg)
 
