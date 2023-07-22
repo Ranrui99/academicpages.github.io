@@ -10,7 +10,7 @@ locale                   : "China-Guangzhou"
 title                    : "Qiaohui Wu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qiaohui Wu(Ranrui.Wu)"
-description              : &description "A warrior pursues her dreams with enthusiasm"
+description              : &description "One World, One Health"
 url                      : https://ranrui99.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ranrui99/Ranrui99.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Qiaohui Wu
   (Ranrui.Wu)"
   avatar           : "profile.png"
-  bio              : "One World, One Health"
+  bio              : "A warrior pursues her dreams with enthusiasm"
   location         : "China, Guangzhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Qiaohui+Wu"
