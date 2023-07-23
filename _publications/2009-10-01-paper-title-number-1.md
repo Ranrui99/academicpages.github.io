@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2023-3-23
 venue: 'BMJ Open'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10039974/'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Qiaohui, Wu. (2023). &quot;Influencing factors of health resource allocation and utilisation before and after COVID-19 based on RIF-I-OLS decomposition method: a longitudinal retrospective study in Guangdong Province, China.&quot; <i>BMJ Open</i>. 13(3).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
