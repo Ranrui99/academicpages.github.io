@@ -1,5 +1,5 @@
 ---
-title: "Influencing factors of health resource allocation and utilisation before and after COVID-19 based on RIF-I-OLS decomposition method: a longitudinal retrospective study in Guangdong Province, China |Number 1"
+title: "Influencing factors of health resource allocation and utilisation before and after COVID-19 based on RIF-I-OLS decomposition method: a longitudinal retrospective study in Guangdong Province, China"
 collection: publications
 permalink: /BMJ Open/2023-03-23-paper-Influencing factors of health resource allocation and utilisation before and after COVID-19 based on RIF-I-OLS decomposition method: a longitudinal retrospective study in Guangdong Province, China-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
