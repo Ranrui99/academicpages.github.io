@@ -11,21 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Guangdong, Guangzhou, China, Guangzhou Medical University, 2012
+* M.D. in Guangdong, Guangzhou, China, Southern Medical University, 2021
+* Ph.D. Expecting
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * The First Affiliated Hospital of Guangzhou Medical University, Guangzhou Institute of Respiratory Diseases
+  * Duties included: Participating in scientific research projects (Writing research protocols, Collecting data, processing data, analyzing data, writing reports and papers)
+  * Supervisor: Professor Jinping Zheng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Clinical coordinator
+  * The Third Affiliated Hospital of Sun Yat-Sen University
+  * Duties included: Responsible for the administrative work of surgical clinical research projects (Organizing clinical research work meetings, urging third-party companies to do relevant work, and writing administrative documents)
+  * Supervisor: Professor Shangrong Li
+
+Research experience
+======
+* Skill 1
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
   
 Skills
 ======
