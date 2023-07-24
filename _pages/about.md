@@ -16,9 +16,11 @@ For more details, you can view my curriculum vitae here:[Ranrui's Curriculum Vit
 
 
 
-**Ten Favorite Books and Movies: 
+**Several Favorite Books and Movies: 
 
 *Books:
+
+Louis Cha (Jin Yong): [Tianlong Ba Bu](https://book.douban.com/subject/1255625/)
 
 Charlotte Bronte: [Jane Eyre](https://search.bilibili.com/all?keyword=Jane%20Eyre&from_source=webtop_search&spm_id_from=333.1007&search_source=5)
 
@@ -32,4 +34,9 @@ Cao Xueqin/Gao E: [Dream of the Red Chamber](https://book.douban.com/subject/100
 
 *Movies:
 
+2009 [Le hérisson](https://movie.douban.com/subject/3824274/) Director: Mona Achaci
+
+1987 [Charing Cross Road](https://movie.douban.com/subject/1299481/) Director: David Hugh Jones
+
+1993 [Farewell to My Concubine](https://movie.douban.com/subject/1291546/) Director: Chen Kaige
 
