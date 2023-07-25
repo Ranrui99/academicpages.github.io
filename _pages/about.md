@@ -15,7 +15,7 @@ For more details, you can view my curriculum vitae here:[Ranrui's Curriculum Vit
 [Email](mailto:13544492060@126.com) / [Github](https://github.com/Ranrui99) / [Wechat](./images/wechat.jpg)
 
 
-**Click [Here](https://opac.smu.edu.cn/space/reading/readingList?tokenid=a1d0a83f003941f86aa3e6c25fb62904) to Find My reading list in the library of Southern Medical University (as of July 2023)
+**Click [Here](./assets/Reading_list.pdf) to Find My reading list in the library of Southern Medical University (as of July 2023)
 
 
 **Several Favorite Books and Movies to Share with you: 
