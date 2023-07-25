@@ -15,10 +15,10 @@ For more details, you can view my curriculum vitae here:[Ranrui's Curriculum Vit
 [Email](mailto:13544492060@126.com) / [Github](https://github.com/Ranrui99) / [Wechat](./images/wechat.jpg)
 
 
-**Click [Here](./assets/Reading_list.pdf) to Find My reading list in the library of Southern Medical University (as of July 2023)
+**Click [Here](./assets/Reading_list.pdf) to find my reading list in the library of Southern Medical University (as of July 2023)
 
 
-**Several Favorite Books and Movies to Share with you: 
+**Several favorite Books and Movies I would like to share with you: 
 
 *Books:
 
